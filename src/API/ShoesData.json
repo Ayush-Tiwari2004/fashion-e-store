@@ -1,0 +1,452 @@
+[
+  {
+    "id": "8512a2a2-d575-456b-84fd-8098209d2a35",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "men",
+    "images": "/src/assets/images/shoes1.jpeg",
+    "description": "Durable walking shoes, Hay buddy this is very comfortable or less priceless shoes you defenitaly like it to buy."
+  },
+  {
+    "id": "a8b80123-b7ce-442b-a410-a915df38cb7d",
+    "name": "Nike Air Max",
+    "rating": "3.1",
+    "price": 5499,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes2.jpeg",
+    "description": "Comfortable running shoes, Lightweight cushioning for all-day comfort. Perfect for running or casual wear. Durable grip."
+  },
+  {
+    "id": "9f0b85ba-9d33-459b-8dcd-535940dc272e",
+    "name": "Adidas Superstar",
+    "rating": "4.1",
+    "price": 3999,
+    "category": "women",
+    "images": "/src/assets/images/shoes3.jpeg",
+    "description": "Timeless leather sneakers with cushioned support. Great for walking & street style."
+  },
+  {
+    "id": "cdaabec0-6a6e-4a64-8485-9567eca9a570",
+    "name": "ASICS Gel",
+    "rating": "2.1",
+    "price": 3999,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes4.jpeg",
+    "description": "Iconic shell-toe design. Cloudfoam comfort. Versatile for sports or fashion"
+  },
+  {
+    "id": "20c65452-9e52-488f-b4c6-366534bf368a",
+    "name": "Adidas Superstar",
+    "rating": "5.0",
+    "price": 5999,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes5.jpeg",
+    "description": "Comfortable running shoes, Breathable mesh upper. Responsive cushioning. Ideal for jogging & gym workouts."
+  },
+  {
+    "id": "f7e86df5-349f-4cad-b9d5-3e61abe2b198",
+    "name": "Puma Runner",
+    "rating": "2.3",
+    "price": 4499,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes6.jpeg",
+    "description": "Trendy street style shoes, Advanced shock absorption. Breathable & stable. Built for long-distance runners."
+  },
+  {
+    "id": "d36bc594-f52f-47f4-bf3a-8da9df80c171",
+    "name": "Nike Air Max",
+    "rating": "3.8",
+    "price": 3999,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes7.jpeg",
+    "description": "Comfortable running shoes, ENCAP midsole support. Suede/mesh upper. Classic comfort for daily wear."
+  },
+  {
+    "id": "be8fd212-2dd4-43ba-a10b-330657a0e56a",
+    "name": "Nike Air Max",
+    "rating": "1.9",
+    "price": 4999,
+    "category": "women",
+    "images": "/src/assets/images/shoes8.jpeg",
+    "description": "High-performance sports shoes, Affordable running shoes. Soft foam cushioning. Lightweight & flexible."
+  },
+  {
+    "id": "a992b927-7561-4c4f-8049-f8ff71108456",
+    "name": "Reebok Classic",
+    "rating": "4.8",
+    "price": 4999,
+    "category": "men",
+    "images": "/src/assets/images/shoes9.jpeg",
+    "description": "Lightweight training shoes, Slip-on convenience. Memory foam insole. Ultra-light for all-day comfort."
+  },
+  {
+    "id": "31474a35-64e6-4878-bf03-0c559c81e4f1",
+    "name": "Adidas Superstar",
+    "rating": "4.6",
+    "price": 5499,
+    "category": "women",
+    "images": "/src/assets/images/shoes10.jpeg",
+    "description": "Canvas sneakers with signature stripe. Cushioned for skate & casual wear."
+  },
+  {
+    "id": "44302b15-3c4b-4c2f-8456-28f340e1794c",
+    "name": "New Balance 574",
+    "rating": "3.7",
+    "price": 3999,
+    "category": "women",
+    "images": "/src/assets/images/shoes11.jpeg",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "fb883142-384c-4995-9896-36a69773beb0",
+    "name": "Nike Air Max",
+    "rating": "8.5",
+    "price": 5999,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes12.jpeg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "73b10527-5c48-47a1-bb55-c39183c0a5a4",
+    "name": "Reebok Classic",
+    "rating": "1.5",
+    "price": 5499,
+    "category": "women",
+    "images": "/src/assets/images/shoes13.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "c55c313b-a59b-4c79-9c1f-9b705d6cc6ca",
+    "name": "Reebok Classic",
+    "rating": "4.4",
+    "price": 3999,
+    "category": "women",
+    "images": "/src/assets/images/shoes14.jpeg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "9c172fd2-9c57-49ee-9d87-5cf0b67162a1",
+    "name": "Reebok Classic",
+    "rating": "5.5",
+    "price": 3999,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes15.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "2db04af8-33d0-439c-bfab-b05e20cb631b",
+    "name": "ASICS Gel",
+    "rating": "2.5",
+    "price": 4499,
+    "category": "women",
+    "images": "/src/assets/images/shoes16.jpeg",
+    "description": "Classic sneakers"
+  },
+  {
+    "id": "a07c07eb-c5cb-489c-b74c-0f9ee979bb02",
+    "name": "Adidas Superstar",
+    "rating": "3.9",
+    "price": 5999,
+    "category": "women",
+    "images": "/src/assets/images/shoes17.jpeg",
+    "description": "Classic sneakers"
+  },
+  {
+    "id": "11511c9d-ef71-475e-bcb0-28dc4454f540",
+    "name": "New Balance 574",
+    "rating": "2.3",
+    "price": 5499,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes18.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "762c695c-145b-41e5-9153-db6394623544",
+    "name": "ASICS Gel",
+    "rating": "4.3",
+    "price": 5499,
+    "category": "men",
+    "images": "/src/assets/images/shoes19.jpeg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "493194f2-d94e-4a75-be42-8596f50c89d0",
+    "name": "ASICS Gel",
+    "rating": "3.4",
+    "price": 4999,
+    "category": "unisex",
+    "images": "/src/assets/images/shoes20.jpeg",
+    "description": "Comfortable running shoes"
+  },
+   {
+    "id": "099ce1ad-1d62-46fb-9c67-f4387f3edc0f",
+    "name": "Nike Air Max",
+    "rating": "2.6",
+    "price": 3999,
+    "category": "women",
+    "images": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "c85348a9-a654-4d67-afac-1705063cf7ff",
+    "name": "Reebok Classic",
+    "rating": "4.2",
+    "price": 5499,
+    "category": "unisex",
+    "images": "https://images.pexels.com/photos/19090/pexels-photo.jpg",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "a9bfa58c-920a-492f-87d5-f9ea3b42a755",
+    "name": "Adidas Superstar",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "a54e8edf-5349-4030-9543-2799ea045baf",
+    "name": "Puma Runner",
+    "rating": "4.5",
+    "price": 5499,
+    "category": "women",
+    "images": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "57364a30-4574-4a68-ab67-0daa3552e7df",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "6c01efa8-986f-4311-8687-3d9c7ba9629c",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "men",
+    "images": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "ef2ef0c5-655a-4de8-a83d-f48b3e060266",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "82140d83-0329-4d4f-9675-654ae15f5dbc",
+    "name": "Puma Runner",
+    "rating": "4.5",
+    "price": 4499,
+    "category": "women",
+    "images": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "603529c9-c28a-4e83-a815-8d2c528d36bc",
+    "name": "ASICS Gel",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "men",
+    "images": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2",
+    "description": "Trendy street style shoes"
+  },
+  {
+    "id": "76a07564-2959-46e5-a8fe-686fd49868f2",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "unisex",
+    "images": "https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "c0a96c65-5712-4196-b69b-476fb16db45f",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 4999,
+    "category": "women",
+    "images": "https://images.unsplash.com/photo-1605348532760-6753d2c43329",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "a87c4511-7679-47db-b2c4-7d074c65c5eb",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 4999,
+    "category": "men",
+    "images": "https://images.pexels.com/photos/6050919/pexels-photo-6050919.jpeg",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "4cbd3a8a-8415-4dc5-8754-41e96db8bdd2",
+    "name": "ASICS Gel",
+    "rating": "4.5",
+    "price": 4999,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "470d208d-5d8f-4315-855a-78afb99e155e",
+    "name": "ASICS Gel",
+    "rating": "4.5",
+    "price": 5499,
+    "category": "unisex",
+    "images": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "c9a60baf-c0f7-4a9b-b67b-3efcfa8ed08b",
+    "name": "New Balance 574",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "women",
+    "images": "https://images.unsplash.com/photo-1608231387042-66d1773070a5",
+    "description": "Comfortable running shoes"
+  },
+  {
+    "id": "b255e986-e480-4b3c-9d3c-a891bcecb6fd",
+    "name": "New Balance 574 ",
+    "rating": "4.5",
+    "price": 4499,
+    "category": "women",
+    "images": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "48992bb1-4ac6-47ea-b543-119d7a752133",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 4999,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "69247251-dc77-4591-b559-9a48d4499a24",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "men",
+    "images": "https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "b763aa7f-8945-40e5-bfba-d0d009931c35",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 5499,
+    "category": "women",
+    "images": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2",
+    "description": "Trendy street style shoes"
+  },
+  {
+    "id": "12243fc1-5b8f-4f03-b021-5cee94d30838",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "women",
+    "images": "https://images.pexels.com/photos/6050919/pexels-photo-6050919.jpeg",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "7e087b37-112c-47cf-9c90-f9372ff4988f",
+    "name": "Puma Runner",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "83c8bb76-2919-4dac-92c7-1f015ee29de6",
+    "name": "New Balance 574",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "unisex",
+    "images": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "734d3f90-0d06-41c7-beb6-6479f74f6ab8",
+    "name": "Reebok Classic",
+    "rating": "4.5",
+    "price": 4499,
+    "category": "unisex",
+    "images": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "b8ba9e30-e057-4331-b0f3-13af05393b95",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "unisex",
+    "images": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "d2880479-f777-4e90-a4b3-94eab337f34d",
+    "name": "ASICS Gel",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "men",
+    "images": "https://images.unsplash.com/photo-1605348532760-6753d2c43329",
+    "description": "Lightweight training shoes"
+  },
+  {
+    "id": "5c7316a6-ceba-4ea5-ae84-acc029b60a47",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "women",
+    "images": "https://images.pexels.com/photos/19090/pexels-photo.jpg",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "0debd79e-5e0a-4c16-ab63-ab9a7d5823f4",
+    "name": "New Balance 574",
+    "rating": "4.5",
+    "price": 5499,
+    "category": "women",
+    "images": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+    "description": "High-performance sports shoes"
+  },
+  {
+    "id": "e2a1150c-9653-4354-8226-1d7b3a268dc8",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 5499,
+    "category": "women",
+    "images": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg",
+    "description": "Classic sneakers"
+  },
+  {
+    "id": "0a470fd4-518b-4c2d-9876-451280e49dc3",
+    "name": "Adidas Superstar",
+    "rating": "4.5",
+    "price": 3999,
+    "category": "women",
+    "images": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a",
+    "description": "Durable walking shoes"
+  },
+  {
+    "id": "bf9e5ae7-59b7-4897-b10a-f6971fc8b1ec",
+    "name": "Nike Air Max",
+    "rating": "4.5",
+    "price": 5999,
+    "category": "unisex",
+    "images": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
+    "description": "Classic sneakers"
+  }
+]

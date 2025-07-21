@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Floral Summer Dress",
+        "qualityDiscription": "Soft cotton, breathable, stylish, perfect for summer and casual wear.",
+        "price": "$49.99",
+        "image": "/src/assets/images/frock.avif"
+    },
+    {
+        "name": "White Sneakers",
+        "price": "$79.99",
+        "qualityDiscription": "Comfort fit, premium leather, ultra casual, sporty look, great for daily use.",
+        "image": "/src/assets/images/bag.avif"
+    },
+    {
+        "name": "Leather Handbag",
+        "price": "$59.99",
+        "qualityDiscription": "Elegant design, lightweight, handcrafted, spacious, perfect for daily outings.",
+        "image": "/src/assets/images/shoes.avif"
+    },
+    {
+        "name": "Denim Jacket",
+        "price": "$65.99",
+        "qualityDiscription": "Bold, durable, genuine leather, trendy, ideal for winter fashion.",
+        "image": "/src/assets/images/denim.avif"
+    }
+]

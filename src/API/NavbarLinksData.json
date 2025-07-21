@@ -1,0 +1,22 @@
+[
+    {
+        "navlink": "View All",
+        "links": "man/viewallproduct"
+    },
+    {
+        "navlink": "Shoes",
+        "links": "man/shoes"
+    },
+    {
+        "navlink": "T-Shirt"
+    },
+    {
+        "navlink": "Shirt"
+    },
+    {
+        "navlink": "Brands"
+    },
+    {
+        "navlink": "Gaming Tools"
+    }
+]
