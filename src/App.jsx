@@ -31,7 +31,7 @@ function App() {
         {path: "man/gaming", element: <Gaming />},
         {path: "man/gaming/:id", element: <ShoesDetails />, loader: GetGamingToolsData},
       ]
-    }
+    }     
   ]);
   return <RouterProvider router={router}/>;
 }

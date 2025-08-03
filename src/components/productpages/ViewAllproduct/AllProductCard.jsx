@@ -79,7 +79,6 @@ export const TshirtCardData = ({ products }) => {
                     />
                     <div className="text-gray-900 dark:text-white">
                         <div className="flex flex-col my-4">
-                            {/* <p className='font-semibold'>{products.name.length > 30 ? products.name.slice(0, 30) + "..." : products.name}</p> */}
                             <h3 className="text-sm">{products.description.length > 30 ? products.description.slice(0,30) + "..." : products.description}</h3>
                         </div>
                         <div className="flex justify-between items-center mb-1">
