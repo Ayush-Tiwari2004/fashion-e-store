@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 import { useState } from "react"
 import axios from 'axios'
-import ProductCard from "./ProductCard";
-import ProductCrousels from "./ProductCrousels";
+import ProductCard from "./AllProductCard";
+import Carousel from "../brandProducts/Carousel";
 
 export const ViewAllProduct = () => {
     const [products, setProducts] = useState([]);
@@ -24,10 +24,18 @@ export const ViewAllProduct = () => {
     useEffect(() => {
         fetchProductData();
     }, [])
+
+     const images = [
+    "/src/assets/images/poster1.jpeg",
+    "/src/assets/images/poster2.jpeg",
+    "/src/assets/images/poster9.jpeg",
+    "/src/assets/images/poster4.jpeg",
+    "/src/assets/images/poster5.jpeg"
+  ];
     return (
         <>
-            <ProductCrousels />
-            <div className="bg-gray-800 mt-6 px-20">
+            <Carousel images={images}/>
+            <div className="mt-6 px-20">
                 <h1 className="text-xl font-semibold text-gray-900 dark:text-white mt-4">All Products</h1>
                 {loading && <p className="text-blue-600 text-lg font-semibold">Lodong Products...</p>}
                 {error && <p className="text-red-600">{error}</p>}

@@ -1,4 +1,5 @@
-[
+{
+  "shoesData" : [
   {
     "id": "8512a2a2-d575-456b-84fd-8098209d2a35",
     "name": "Nike Air Max",
@@ -63,24 +64,6 @@
     "description": "Comfortable running shoes, ENCAP midsole support. Suede/mesh upper. Classic comfort for daily wear."
   },
   {
-    "id": "be8fd212-2dd4-43ba-a10b-330657a0e56a",
-    "name": "Nike Air Max",
-    "rating": "1.9",
-    "price": 4999,
-    "category": "women",
-    "images": "/src/assets/images/shoes8.jpeg",
-    "description": "High-performance sports shoes, Affordable running shoes. Soft foam cushioning. Lightweight & flexible."
-  },
-  {
-    "id": "a992b927-7561-4c4f-8049-f8ff71108456",
-    "name": "Reebok Classic",
-    "rating": "4.8",
-    "price": 4999,
-    "category": "men",
-    "images": "/src/assets/images/shoes9.jpeg",
-    "description": "Lightweight training shoes, Slip-on convenience. Memory foam insole. Ultra-light for all-day comfort."
-  },
-  {
     "id": "31474a35-64e6-4878-bf03-0c559c81e4f1",
     "name": "Adidas Superstar",
     "rating": "4.6",
@@ -106,15 +89,6 @@
     "category": "unisex",
     "images": "/src/assets/images/shoes12.jpeg",
     "description": "High-performance sports shoes"
-  },
-  {
-    "id": "73b10527-5c48-47a1-bb55-c39183c0a5a4",
-    "name": "Reebok Classic",
-    "rating": "1.5",
-    "price": 5499,
-    "category": "women",
-    "images": "/src/assets/images/shoes13.jpeg",
-    "description": "Lightweight training shoes"
   },
   {
     "id": "c55c313b-a59b-4c79-9c1f-9b705d6cc6ca",
@@ -179,15 +153,6 @@
     "images": "/src/assets/images/shoes20.jpeg",
     "description": "Comfortable running shoes"
   },
-   {
-    "id": "099ce1ad-1d62-46fb-9c67-f4387f3edc0f",
-    "name": "Nike Air Max",
-    "rating": "2.6",
-    "price": 3999,
-    "category": "women",
-    "images": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28",
-    "description": "Durable walking shoes"
-  },
   {
     "id": "c85348a9-a654-4d67-afac-1705063cf7ff",
     "name": "Reebok Classic",
@@ -196,15 +161,6 @@
     "category": "unisex",
     "images": "https://images.pexels.com/photos/19090/pexels-photo.jpg",
     "description": "Comfortable running shoes"
-  },
-  {
-    "id": "a9bfa58c-920a-492f-87d5-f9ea3b42a755",
-    "name": "Adidas Superstar",
-    "rating": "4.5",
-    "price": 5999,
-    "category": "unisex",
-    "images": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
-    "description": "Durable walking shoes"
   },
   {
     "id": "a54e8edf-5349-4030-9543-2799ea045baf",
@@ -225,15 +181,6 @@
     "description": "High-performance sports shoes"
   },
   {
-    "id": "6c01efa8-986f-4311-8687-3d9c7ba9629c",
-    "name": "Nike Air Max",
-    "rating": "4.5",
-    "price": 5999,
-    "category": "men",
-    "images": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
-    "description": "Durable walking shoes"
-  },
-  {
     "id": "ef2ef0c5-655a-4de8-a83d-f48b3e060266",
     "name": "Reebok Classic",
     "rating": "4.5",
@@ -250,15 +197,6 @@
     "category": "women",
     "images": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg",
     "description": "Lightweight training shoes"
-  },
-  {
-    "id": "603529c9-c28a-4e83-a815-8d2c528d36bc",
-    "name": "ASICS Gel",
-    "rating": "4.5",
-    "price": 5999,
-    "category": "men",
-    "images": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2",
-    "description": "Trendy street style shoes"
   },
   {
     "id": "76a07564-2959-46e5-a8fe-686fd49868f2",
@@ -297,48 +235,12 @@
     "description": "Comfortable running shoes"
   },
   {
-    "id": "470d208d-5d8f-4315-855a-78afb99e155e",
-    "name": "ASICS Gel",
-    "rating": "4.5",
-    "price": 5499,
-    "category": "unisex",
-    "images": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
-    "description": "Lightweight training shoes"
-  },
-  {
-    "id": "c9a60baf-c0f7-4a9b-b67b-3efcfa8ed08b",
-    "name": "New Balance 574",
-    "rating": "4.5",
-    "price": 3999,
-    "category": "women",
-    "images": "https://images.unsplash.com/photo-1608231387042-66d1773070a5",
-    "description": "Comfortable running shoes"
-  },
-  {
-    "id": "b255e986-e480-4b3c-9d3c-a891bcecb6fd",
-    "name": "New Balance 574 ",
-    "rating": "4.5",
-    "price": 4499,
-    "category": "women",
-    "images": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
-    "description": "High-performance sports shoes"
-  },
-  {
     "id": "48992bb1-4ac6-47ea-b543-119d7a752133",
     "name": "Reebok Classic",
     "rating": "4.5",
     "price": 4999,
     "category": "unisex",
     "images": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28",
-    "description": "High-performance sports shoes"
-  },
-  {
-    "id": "69247251-dc77-4591-b559-9a48d4499a24",
-    "name": "Reebok Classic",
-    "rating": "4.5",
-    "price": 5999,
-    "category": "men",
-    "images": "https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg",
     "description": "High-performance sports shoes"
   },
   {
@@ -349,24 +251,6 @@
     "category": "women",
     "images": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2",
     "description": "Trendy street style shoes"
-  },
-  {
-    "id": "12243fc1-5b8f-4f03-b021-5cee94d30838",
-    "name": "Nike Air Max",
-    "rating": "4.5",
-    "price": 5999,
-    "category": "women",
-    "images": "https://images.pexels.com/photos/6050919/pexels-photo-6050919.jpeg",
-    "description": "Durable walking shoes"
-  },
-  {
-    "id": "7e087b37-112c-47cf-9c90-f9372ff4988f",
-    "name": "Puma Runner",
-    "rating": "4.5",
-    "price": 3999,
-    "category": "unisex",
-    "images": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519",
-    "description": "High-performance sports shoes"
   },
   {
     "id": "83c8bb76-2919-4dac-92c7-1f015ee29de6",
@@ -396,33 +280,6 @@
     "description": "High-performance sports shoes"
   },
   {
-    "id": "d2880479-f777-4e90-a4b3-94eab337f34d",
-    "name": "ASICS Gel",
-    "rating": "4.5",
-    "price": 5999,
-    "category": "men",
-    "images": "https://images.unsplash.com/photo-1605348532760-6753d2c43329",
-    "description": "Lightweight training shoes"
-  },
-  {
-    "id": "5c7316a6-ceba-4ea5-ae84-acc029b60a47",
-    "name": "Nike Air Max",
-    "rating": "4.5",
-    "price": 3999,
-    "category": "women",
-    "images": "https://images.pexels.com/photos/19090/pexels-photo.jpg",
-    "description": "High-performance sports shoes"
-  },
-  {
-    "id": "0debd79e-5e0a-4c16-ab63-ab9a7d5823f4",
-    "name": "New Balance 574",
-    "rating": "4.5",
-    "price": 5499,
-    "category": "women",
-    "images": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
-    "description": "High-performance sports shoes"
-  },
-  {
     "id": "e2a1150c-9653-4354-8226-1d7b3a268dc8",
     "name": "Nike Air Max",
     "rating": "4.5",
@@ -430,15 +287,6 @@
     "category": "women",
     "images": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg",
     "description": "Classic sneakers"
-  },
-  {
-    "id": "0a470fd4-518b-4c2d-9876-451280e49dc3",
-    "name": "Adidas Superstar",
-    "rating": "4.5",
-    "price": 3999,
-    "category": "women",
-    "images": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a",
-    "description": "Durable walking shoes"
   },
   {
     "id": "bf9e5ae7-59b7-4897-b10a-f6971fc8b1ec",
@@ -449,4 +297,91 @@
     "images": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg",
     "description": "Classic sneakers"
   }
+],
+"tshirtData":[
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg1.jpg",
+    "price": "599",
+    "description": " Stylish navy blue t-shirt with Tom & Jerry print. Perfect for cartoon lovers looking to express nostalgia with a modern twist."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg2.jpeg",
+    "price": "499",
+    "description": "White crew-neck tee featuring a bold anime punch graphic. Ideal for streetwear enthusiasts and anime fans alike."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg3.jpeg",
+    "price": "549",
+    "description": "Green oversized One Piece t-shirt with Zoro back print. Eye-catching design, perfect for anime lovers who stand out."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg4.jpeg",
+    "price": "699",
+    "description": "Cream tee with powerful Goku artwork from Dragon Ball Z. Designed for fans who love strong characters and classic style."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg5.jpeg",
+    "price": "599",
+    "description": "Black t-shirt featuring a graffiti teddy bear and “Happy” text. Great for urban fashion lovers with a fun edge."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg6.jpeg",
+    "price": "499",
+    "description": " Double-view black t-shirt with LABUBU character print. Adds playful energy to your casual wear collection."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/shirtimg7.jpeg",
+    "price": "549",
+    "description": "Orange oversized Goku tee with back print and bold Kanji. A must-have for Dragon Ball fans wanting comfort and style."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg8.jpeg",
+    "price": "699",
+    "description": " Red One Piece t-shirt with Luffy’s fist-up design. Ideal for fans wanting to showcase their pirate pride."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg9.jpeg",
+    "price": "699",
+    "description": "White tee with an artistic Donald Duck street-style print. Perfect blend of classic cartoon with modern streetwear."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg11.jpeg",
+    "price": "549",
+    "description": "Black power-charged Goku glow design t-shirt. Designed for anime lovers who want bold and electric style."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg12.jpeg",
+    "price": "749",
+    "description": "Off-white t-shirt with mini Goku family print. Light, fun, and ideal for casual daily wear with anime vibes."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg13.jpeg",
+    "price": "599",
+    "description": "Pink t-shirt featuring the cool Pink Panther holding a drink. Brings chill and playful vibes to your outfit."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg14.jpeg",
+    "price": "649",
+    "description": "White tee with vertical “GOKU” text and sharp action graphic. Clean yet fierce, great for all Dragon Ball fans."    
+  },
+  {
+    "id":"5s5d7f5df",
+    "images": "/src/assets/tshirtimg/tshirtimg10.jpeg",
+    "price": "699",
+    "description": "Beige Dragon Ball Z tee with seated Goku and logo. Cozy fit with a retro anime style fans will love."    
+  }
 ]
+}

@@ -1,0 +1,332 @@
+{
+    "shirtsData": [
+        {
+            "id": "shirt001",
+            "name": "Dual Tone Formal Shirt",
+            "rating": "4.4",
+            "price": 799,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt1.jpeg",
+            "description": "Elegant formal shirt with blue stripes, ideal for office or semi-formal occasions."
+        },
+        {
+            "id": "shirt002",
+            "name": "Colorblock Casual Shirt",
+            "rating": "4.2",
+            "price": 649,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt2.jpeg",
+            "description": "Trendy white and grey colorblock casual shirt for a modern streetwear vibe."
+        },
+        {
+            "id": "shirt003",
+            "name": "Minimalist White Shirt",
+            "rating": "4.1",
+            "price": 599,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt3.jpeg",
+            "description": "Clean white shirt with subtle green sleeve accents, ideal for daily casual wear."
+        },
+        {
+            "id": "shirt004",
+            "name": "Dual Block Striped Shirt",
+            "rating": "4.3",
+            "price": 699,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt4.jpeg",
+            "description": "Stylish block pattern with vertical stripes, great for semi-casual occasions."
+        },
+        {
+            "id": "shirt005",
+            "name": "Abstract Blue Resort Shirt",
+            "rating": "4.5",
+            "price": 749,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt5.jpeg",
+            "description": "Tropical beach-style shirt with abstract print. Comes with matching shorts."
+        },
+        {
+            "id": "shirt006",
+            "name": "Tri-Tone Collar Shirt",
+            "rating": "4.4",
+            "price": 799,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt6.jpeg",
+            "description": "Three-tone collared shirt with front pocket detail, perfect for smart casual looks."
+        },
+        {
+            "id": "shirt007",
+            "name": "Modern Vertical Striped Shirt",
+            "rating": "4.0",
+            "price": 599,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt7.jpeg",
+            "description": "White base shirt with minimal black and red stripes, modern and versatile."
+        },
+        {
+            "id": "shirt008",
+            "name": "Palm Leaf Print Shirt",
+            "rating": "4.5",
+            "price": 749,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt8.jpeg",
+            "description": "Green leaf-printed shirt on mint base, ideal for vacation or resort wear."
+        },
+        {
+            "id": "shirt009",
+            "name": "Vertical Blue Striped Shirt",
+            "rating": "4.3",
+            "price": 699,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt9.jpeg",
+            "description": "Eye-catching blue and white vertical stripes perfect for summer outings."
+        },
+        {
+            "id": "shirt010",
+            "name": "Patchwork Print Shirt",
+            "rating": "4.2",
+            "price": 749,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt10.jpeg",
+            "description": "Boho patchwork short-sleeve shirt, great for casual and beach wear."
+        },
+        {
+            "id": "shirt011",
+            "name": "Bird Printed White Shirt",
+            "rating": "4.1",
+            "price": 599,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt11.jpeg",
+            "description": "White shirt with scattered bird prints, lightweight and breathable."
+        },
+        {
+            "id": "shirt012",
+            "name": "Monochrome Palm Shirt",
+            "rating": "4.4",
+            "price": 699,
+            "category": "shirts",
+            "images": "/src/assets/shirtimg/shirt12.jpeg",
+            "description": "Stylish black palm print shirt on a white background, perfect for summer."
+        }
+    ],
+    "brandsData": [
+        {
+            "id": "brand001",
+            "name": "Nike Red Swoosh Air White",
+            "price": 1799,
+            "description": "Classic white Nike Air with red swoosh. Stylish and versatile for everyday wear.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg1.jpeg"
+        },
+        {
+            "id": "brand002",
+            "name": "Nike Air Jordan 4 White Grey",
+            "price": 7499,
+            "description": "Popular Air Jordan 4 design in white and grey. Built for performance and style.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg2.jpeg"
+        },
+        {
+            "id": "brand003",
+            "name": "Nike Air Force White Minimal",
+            "price": 4199,
+            "description": "Clean and sleek Nike Air Force in full white. Great for minimal streetwear looks.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg3.jpeg"
+        },
+        {
+            "id": "brand004",
+            "name": "Nike Air Black High Top",
+            "price": 4599,
+            "description": "All-black high top Nike Air, offering superior grip and classic athletic style.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg4.jpeg"
+        },
+        {
+            "id": "brand005",
+            "name": "Nike Multi-Strap Sneakers",
+            "price": 3899,
+            "description": "Trendy colorful sneakers with unique strap design. Built for comfort and attention.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg5.jpeg"
+        },
+        {
+            "id": "brand006",
+            "name": "Calvin Klein Polo Shirt",
+            "price": 1299,
+            "description": "Classy Calvin Klein olive polo with navy accents. Great for casual and smart looks.",
+            "category": "shirts",
+            "images": "/src/assets/brandProducts/brandimg6.jpeg"
+        },
+        {
+            "id": "brand007",
+            "name": "BTS K-Pop Pink Sweatshirt",
+            "price": 1199,
+            "description": "Cozy pink K-pop BTS sweatshirt with floral arm design and front logo print.",
+            "category": "sweatshirts",
+            "images": "/src/assets/brandProducts/brandimg7.jpeg"
+        },
+        {
+            "id": "brand008",
+            "name": "LA Graphic White T-Shirt",
+            "price": 899,
+            "description": "Trendy white tee with LA-inspired typography and back print. Unisex casual wear.",
+            "category": "tshirts",
+            "images": "/src/assets/brandProducts/brandimg8.jpeg"
+        },
+        {
+            "id": "brand009",
+            "name": "Nike Air Force 1 Shadow",
+            "price": 6499,
+            "description": "Bold white/black Nike Air Force 1 Shadow with unique swoosh placement. Premium look.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg9.jpeg"
+        },
+        {
+            "id": "brand010",
+            "name": "Nike Air Trainer Teal White",
+            "price": 4999,
+            "description": "Modern Nike Air Trainer with teal, black, and white tones. Built for speed and grip.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg10.jpeg"
+        },
+        {
+            "id": "brand011",
+            "name": "Nike Black White Hoodie",
+            "price": 1499,
+            "description": "Unisex Nike hoodie with black and white patch design. Warm and stylish.",
+            "category": "hoodies",
+            "images": "/src/assets/brandProducts/brandimg11.jpeg"
+        },
+        {
+            "id": "brand012",
+            "name": "SHEIN Colour Block Shirt",
+            "price": 699,
+            "description": "Trendy boys' resort-style shirt with teal and black color blocks. Relaxed fit.",
+            "category": "shirts",
+            "images": "/src/assets/brandProducts/brandimg12.jpeg"
+        },
+        {
+            "id": "brand013",
+            "name": "NASA Graphic Tee Black",
+            "price": 799,
+            "description": "Black NASA print tee with space icons. Perfect for fans of science and style.",
+            "category": "tshirts",
+            "images": "/src/assets/brandProducts/brandimg13.jpeg"
+        },
+        {
+            "id": "brand014",
+            "name": "Puma Black Knit Sneakers",
+            "price": 2899,
+            "description": "Lightweight black Puma sports shoes, breathable design for active lifestyle.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg14.jpeg"
+        },
+        {
+            "id": "brand015",
+            "name": "Puma Palermo OG Trainer",
+            "price": 3799,
+            "description": "Retro-inspired Puma OG Palermo in white and tan with blue stripe. Iconic style.",
+            "category": "shoes",
+            "images": "/src/assets/brandProducts/brandimg15.jpeg"
+        },
+        {
+            "id": "brand016",
+            "name": "Tommy Graphic Tee Women",
+            "price": 1099,
+            "description": "Simple and cute Tommy Hilfiger tee for women, perfect for everyday comfort.",
+            "category": "tshirts",
+            "images": "/src/assets/brandProducts/brandimg16.jpeg"
+        }
+    ],
+    "gamingToolsData": [
+        {
+            "id": "gaming001",
+            "name": "Wireless Gaming Headset - Black",
+            "price": 2499,
+            "description": "Immersive over-ear wireless gaming headset with noise isolation and surround sound.",
+            "category": "headphones",
+            "images": "/src/assets/gamingTools/gaming1.jpeg"
+        },
+        {
+            "id": "gaming002",
+            "name": "Roller Sneakers Purple Neon",
+            "price": 2999,
+            "description": "Trendy sneakers with built-in roller wheels. Ideal for outdoor fun and skating.",
+            "category": "skating",
+            "images": "/src/assets/gamingTools/gaming2.jpeg"
+        },
+        {
+            "id": "gaming003",
+            "name": "Futuristic Gadget Set - Sci-Fi Kit",
+            "price": 1899,
+            "description": "Sci-fi inspired toy gadgets for imaginative play. Features lights, screens, and tools.",
+            "category": "toys",
+            "images": "/src/assets/gamingTools/gaming3.jpeg"
+        },
+        {
+            "id": "gaming004",
+            "name": "RGB Wireless Game Controller",
+            "price": 2099,
+            "description": "Ergonomic gaming controller with RGB glow and wireless connectivity.",
+            "category": "controllers",
+            "images": "/src/assets/gamingTools/gaming4.jpeg"
+        },
+        {
+            "id": "gaming005",
+            "name": "RGB Wired Gaming Mouse",
+            "price": 1499,
+            "description": "High precision RGB gaming mouse with programmable buttons and optical sensor.",
+            "category": "mouse",
+            "images": "/src/assets/gamingTools/gaming5.jpeg"
+        },
+        {
+            "id": "gaming006",
+            "name": "Yellow Accent Gaming Headphones",
+            "price": 2699,
+            "description": "Stylish yellow-trim gaming headset with microphone and deep bass drivers.",
+            "category": "headphones",
+            "images": "/src/assets/gamingTools/gaming6.jpeg"
+        },
+        {
+            "id": "gaming007",
+            "name": "White Skate Sneakers",
+            "price": 3199,
+            "description": "White skating shoes with retractable wheels. Great for skating or walking.",
+            "category": "skating",
+            "images": "/src/assets/gamingTools/gaming7.jpeg"
+        },
+        {
+            "id": "gaming008",
+            "name": "Fitness and Skating Gloves",
+            "price": 799,
+            "description": "Breathable gloves for skating, gym, or street sports. Offers grip and wrist support.",
+            "category": "accessories",
+            "images": "/src/assets/gamingTools/gaming8.jpeg"
+        },
+        {
+            "id": "gaming009",
+            "name": "Black Metallic TWS Earbuds",
+            "price": 1599,
+            "description": "High-quality true wireless earbuds with charging case and dual-mic system.",
+            "category": "earbuds",
+            "images": "/src/assets/gamingTools/gaming9.jpeg"
+        },
+        {
+            "id": "gaming010",
+            "name": "Protective Skating Gear Set",
+            "price": 1199,
+            "description": "Complete set of knee, elbow, and wrist guards for safe skating and biking.",
+            "category": "accessories",
+            "images": "/src/assets/gamingTools/gaming10.jpeg"
+        },
+        {
+            "id": "gaming011",
+            "name": "Green TWS Bluetooth Earbuds",
+            "price": 1699,
+            "description": "Wireless green earbuds with digital display case and long battery life.",
+            "category": "earbuds",
+            "images": "/src/assets/gamingTools/gaming11.jpeg"
+        }
+    ]
+}

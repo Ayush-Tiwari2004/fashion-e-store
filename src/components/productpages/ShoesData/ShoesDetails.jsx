@@ -10,7 +10,7 @@ const ShoesDetails = () => {
       <img
         src={product.images}
         alt={product.name}
-        className="w-full md:w-1/4 object-contain"
+        className="w-full md:w-1/5 object-contain rounded-lg"
       />
       <div className="md:w-1/2 text-gray-800 dark:text-white">
         <h1 className="text-2xl font-bold">{product.name}</h1>
@@ -24,6 +24,7 @@ const ShoesDetails = () => {
             <IoIosStarHalf />
             </p>
         </div>
+        <p>{`Category: ${product.category}`}</p>
         <p className="text-lg font-semibold text-green-600">{product.price}</p>
       </div>
     </div>

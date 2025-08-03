@@ -1,22 +1,48 @@
-[
-    {
-        "navlink": "View All",
-        "links": "man/viewallproduct"
-    },
-    {
-        "navlink": "Shoes",
-        "links": "man/shoes"
-    },
-    {
-        "navlink": "T-Shirt"
-    },
-    {
-        "navlink": "Shirt"
-    },
-    {
-        "navlink": "Brands"
-    },
-    {
-        "navlink": "Gaming Tools"
-    }
-]
+{
+    "man": [
+        {
+            "navlink": "View All",
+            "links": "man/viewallproduct"
+        },
+        {
+            "navlink": "Shoes",
+            "links": "man/shoes"
+        },
+        {
+            "navlink": "T-Shirt",
+            "links": "man/tshirt"
+        },
+        {
+            "navlink": "Shirt",
+            "links": "man/shirt"
+        },
+        {
+            "navlink": "Brands",
+            "links": "man/brand"
+        },
+        {
+            "navlink": "Gaming Tools",
+            "links": "man/gaming"
+        }
+    ],
+    "women": [
+        {
+            "navlink": "View All"
+        },
+        {
+            "navlink": "Women Trends"
+        },
+        {
+            "navlink": "Shoes"
+        },
+        {
+            "navlink": "Face+Body"
+        },
+        {
+            "navlink": "Wedding"
+        },
+        {
+            "navlink": "Activewear"
+        }
+    ]
+}

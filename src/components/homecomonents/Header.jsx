@@ -4,19 +4,19 @@ import { FiUsers } from "react-icons/fi";
 import { FaRegHeart } from "react-icons/fa6";
 import { Theme } from '../../commonComponents/Theme';
 import { Popups } from '../../pages/Popups';
-import {NavLink} from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
-const Header = () => {
-  const [activeCategory, setActiveCategory] = useState(() => {
-    return localStorage.getItem("activeCategory") || "men";
-  });
+const Header = ({ activeCategory, handleCategoryClick }) => {
+  // const [activeCategory, setActiveCategory] = useState(() => {
+  //   return localStorage.getItem("activeCategory") || "man";
+  // });
 
-  const handleCategoryClick = (category) => {
-    if (activeCategory !== category) {
-      setActiveCategory(category);
-      localStorage.setItem("activeCategory", category);
-    }
-  };
+  // const handleCategoryClick = (category) => {
+  //   if (activeCategory !== category) {
+  //     setActiveCategory(category);
+  //     localStorage.setItem("activeCategory", category);
+  //   }
+  // };
 
   return (
     <header>
@@ -27,17 +27,17 @@ const Header = () => {
             Trend<span className='text-pink-600'>Hive</span>
           </NavLink>
           <div className="hidden lg:flex text-gray-800 dark:text-white font-semibold">
-            {/* Men */}
+            {/* Man */}
             <div
-              onClick={() => handleCategoryClick("men")}
+              onClick={() => handleCategoryClick("man")}
               className={`flex items-center gap-6 cursor-pointer transition
-                ${activeCategory === "men"
+                ${activeCategory === "man"
                   ? "bg-gray-100 dark:bg-gray-700"
                   : "hover:bg-gray-100 dark:hover:bg-gray-600"
                 }`}
             >
               <span className='border-r border-gray-300 h-14'></span>
-              <p className='px-5'>Men</p>
+              <p className='px-5'>Man</p>
               <span className='border-r border-gray-300 h-14'></span>
             </div>
 

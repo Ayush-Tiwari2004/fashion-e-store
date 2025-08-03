@@ -7,7 +7,25 @@
     font-family: "poppins";
     scrollbar-width: none;
 }
-.crouserl-images{
-    height: 600px;
-    
+
+/* 3D-like effects using transform and depth */
+.slide-container {
+  perspective: 1000px;
 }
+.slick-slide {
+  transition: transform 0.5s ease, filter 0.5s ease;
+  transform: scale(0.85) rotateY(15deg);
+  filter: blur(2px) brightness(0.6);
+  z-index: 1;
+}
+
+.slick-center {
+  transform: scale(1.05) rotateY(0deg) !important;
+  filter: blur(0) brightness(1) !important;
+  z-index: 10 !important;
+}
+.slick-prev::before,
+.slick-next::before {
+  color: #ef4444; /* Tailwind red-500 */
+}
+

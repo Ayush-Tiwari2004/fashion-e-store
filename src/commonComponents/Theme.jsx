@@ -24,7 +24,7 @@ export const Theme = () => {
   return (
     <button
       onClick={toggleTheme}
-      className="bg-gray-500 text-white p-2 rounded-full text-lg"
+      className="bg-gray-500 text-white p-2 rounded-full text-lg cursor-pointer"
     >
       {theme === "dark" ? <MdOutlineWbSunny /> : <IoMoonOutline />}
     </button>
