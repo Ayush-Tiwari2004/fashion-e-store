@@ -1,0 +1,351 @@
+{
+    "womenAllProductData": [
+        {
+            "id": "women001",
+            "name": "Women 1",
+            "price": 1299,
+            "description": "Elegant maroon blazer with a modern open front design, perfect for professional and casual occasions alike.",
+            "images": "/womensAllProductList/women1.jpeg"
+        },
+        {
+            "id": "women002",
+            "name": "Women 2",
+            "price": 1499,
+            "description": "Stylish light blue double-breasted blazer with golden buttons, ideal for office wear or formal gatherings.",
+            "images": "/womensAllProductList/women2.jpeg"
+        },
+        {
+            "id": "women003",
+            "name": "Women 3",
+            "price": 1799,
+            "description": "Chic beige formal suit set with a tailored fit, designed for a sophisticated and confident look.",
+            "images": "/womensAllProductList/women3.jpeg"
+        },
+        {
+            "id": "women004",
+            "name": "Women 4",
+            "price": 1099,
+            "description": "Trendy mint green handbag with floral embellishments, offering both style and practicality.",
+            "images": "/womensAllProductList/women4.jpeg"
+        },
+        {
+            "id": "women005",
+            "name": "Women 5",
+            "price": 899,
+            "description": "Minimalist gold-toned jewelry set featuring a necklace, earrings, and bracelet for a classy touch.",
+            "images": "/womensAllProductList/women5.jpeg"
+        },
+        {
+            "id": "women006",
+            "name": "Women 6",
+            "price": 599,
+            "description": "Comfortable and chic maroon tank top, ideal for layering or wearing on warm days.",
+            "images": "/womensAllProductList/women6.jpeg"
+        },
+        {
+            "id": "women007",
+            "name": "Women 7",
+            "price": 499,
+            "description": "Soft beige slippers with a knot design, offering warmth and comfort at home.",
+            "images": "/womensAllProductList/women7.jpeg"
+        },
+        {
+            "id": "women008",
+            "name": "Women 8",
+            "price": 1199,
+            "description": "Olive green wrap dress with a flattering waist tie, perfect for casual outings or parties.",
+            "images": "/womensAllProductList/women8.jpeg"
+        },
+        {
+            "id": "women009",
+            "name": "Women 9",
+            "price": 1399,
+            "description": "Navy blue printed wrap dress with a modern, flowy silhouette for effortless elegance.",
+            "images": "/womensAllProductList/women9.jpeg"
+        },
+        {
+            "id": "women010",
+            "name": "Women 10",
+            "price": 699,
+            "description": "Traditional gold and green studded earrings with intricate detailing, ideal for festive wear.",
+            "images": "/womensAllProductList/women10.jpeg"
+        },
+        {
+            "id": "women011",
+            "name": "Women 11",
+            "price": 1599,
+            "description": "Elegant green saree with floral print, crafted from lightweight fabric for all-day comfort.",
+            "images": "/womensAllProductList/women11.jpeg"
+        },
+        {
+            "id": "women012",
+            "name": "Women 12",
+            "price": 899,
+            "description": "Vibrant pink tote bag with brown handles, spacious enough for everyday essentials.",
+            "images": "/womensAllProductList/women12.jpeg"
+        },
+        {
+            "id": "women013",
+            "name": "Women 13",
+            "price": 1299,
+            "description": "Deep navy wrap dress with a side slit for a stylish and confident appeal.",
+            "images": "/womensAllProductList/women13.jpeg"
+        },
+        {
+            "id": "women014",
+            "name": "Women 14",
+            "price": 1099,
+            "description": "Mint green handbag with floral decorations and golden accents for a refined look.",
+            "images": "/womensAllProductList/women14.jpeg"
+        },
+        {
+            "id": "women015",
+            "name": "Women 15",
+            "price": 899,
+            "description": "Elegant lavender jewelry set featuring a necklace and earrings, designed for special occasions.",
+            "images": "/womensAllProductList/women15.jpeg"
+        },
+        {
+            "id": "women016",
+            "name": "Women 16",
+            "price": 799,
+            "description": "Relaxed fit blue striped shirt, perfect for casual wear or office styling.",
+            "images": "/womensAllProductList/women16.jpeg"
+        },
+        {
+            "id": "women017",
+            "name": "Women 17",
+            "price": 1499,
+            "description": "Comfortable maroon activewear set including sports bra, leggings, and jacket for workouts.",
+            "images": "/womensAllProductList/women17.jpeg"
+        },
+        {
+            "id": "women018",
+            "name": "Women 18",
+            "price": 799,
+            "description": "Black satin short-sleeve nightwear set with white piping for a classic sleepwear look.",
+            "images": "/womensAllProductList/women18.jpeg"
+        },
+        {
+            "id": "women019",
+            "name": "Women 19",
+            "price": 499,
+            "description": "Light blue graphic T-shirt made of soft cotton for everyday comfort and style.",
+            "images": "/womensAllProductList/women19.jpeg"
+        },
+        {
+            "id": "women020",
+            "name": "Women 20",
+            "price": 999,
+            "description": "High-waisted blue denim jeans with a straight fit for timeless casual style.",
+            "images": "/womensAllProductList/women20.jpeg"
+        },
+        {
+            "id": "women021",
+            "name": "Women 21",
+            "price": 699,
+            "description": "Gold and green beaded traditional earrings, perfect for cultural events and weddings.",
+            "images": "/womensAllProductList/women21.jpeg"
+        },
+        {
+            "id": "women022",
+            "name": "Women 22",
+            "price": 799,
+            "description": "Handcrafted golden jhumka earrings with intricate beadwork for a traditional charm.",
+            "images": "/womensAllProductList/women22.jpeg"
+        },
+        {
+            "id": "women023",
+            "name": "Women 23",
+            "price": 1199,
+            "description": "White leather handbag with floral handle design for a chic and modern touch.",
+            "images": "/womensAllProductList/women23.jpeg"
+        },
+        {
+            "id": "women024",
+            "name": "Women 24",
+            "price": 699,
+            "description": "Soft pink loungewear set with a button-up top and matching shorts for comfort.",
+            "images": "/womensAllProductList/women24.jpeg"
+        },
+        {
+            "id": "women025",
+            "name": "Women 25",
+            "price": 749,
+            "description": "Golden jhumka earrings with detailed craftsmanship, suitable for weddings and festive wear.",
+            "images": "/womensAllProductList/women25.jpeg"
+        },
+        {
+            "id": "women026",
+            "name": "Women 26",
+            "price": 999,
+            "description": "Classic red leather handbag with structured design for formal or casual occasions.",
+            "images": "/womensAllProductList/women26.jpeg"
+        },
+        {
+            "id": "women027",
+            "name": "Women 27",
+            "price": 799,
+            "description": "Light blue oversized shirt with stylish stripes, perfect for casual summer looks.",
+            "images": "/womensAllProductList/women27.jpeg"
+        }
+    ],
+    "womenShoesData": [
+        {
+            "id": "womenShoe001",
+            "name": "Women Sport Sneakers",
+            "price": 1599,
+            "description": "Lightweight black sport sneakers with breathable mesh and cushioned sole for all-day comfort.",
+            "images": "/womenShoes/womenshoes1.jpeg"
+        },
+        {
+            "id": "womenShoe002",
+            "name": "Women Winter Boots",
+            "price": 1899,
+            "description": "Cozy brown winter boots with warm inner lining and sturdy sole for excellent grip.",
+            "images": "/womenShoes/womenshoes2.jpeg"
+        },
+        {
+            "id": "womenShoe003",
+            "name": "Pink High-Top Sneakers",
+            "price": 1799,
+            "description": "Trendy pink high-top sneakers with soft padding and durable build for daily wear.",
+            "images": "/womenShoes/womenshoes3.jpeg"
+        },
+        {
+            "id": "womenShoe004",
+            "name": "White Stripe Sneakers",
+            "price": 1699,
+            "description": "Classic white sneakers with black stripes, perfect for casual and sporty looks.",
+            "images": "/womenShoes/womenshoes4.jpeg"
+        },
+        {
+            "id": "womenShoe005",
+            "name": "Pink Casual Trainers",
+            "price": 1599,
+            "description": "Comfortable pink trainers with flexible sole, ideal for walking and light workouts.",
+            "images": "/womenShoes/womenshoes5.jpeg"
+        },
+        {
+            "id": "womenShoe006",
+            "name": "Black Party Heels",
+            "price": 2099,
+            "description": "Elegant black heels with stylish bow detail, perfect for parties and formal wear.",
+            "images": "/womenShoes/womenshoes6.jpeg"
+        },
+        {
+            "id": "womenShoe007",
+            "name": "Star Design Sneakers",
+            "price": 1799,
+            "description": "Soft pink sneakers featuring white star design and anti-slip sole for style and comfort.",
+            "images": "/womenShoes/womenshoes7.jpeg"
+        },
+        {
+            "id": "womenShoe008",
+            "name": "Nike Style Trainers",
+            "price": 2299,
+            "description": "Sporty black and pink trainers inspired by Nike design, perfect for running or gym.",
+            "images": "/womenShoes/womenshoes8.jpeg"
+        },
+        {
+            "id": "womenShoe009",
+            "name": "Casual Canvas Shoes",
+            "price": 1499,
+            "description": "Classic navy blue canvas shoes with white laces, comfortable for daily wear.",
+            "images": "/womenShoes/womenshoes9.jpeg"
+        },
+        {
+            "id": "womenShoe010",
+            "name": "White Casual Sneakers",
+            "price": 1699,
+            "description": "Minimalist white sneakers with clean design, pairs well with any outfit.",
+            "images": "/womenShoes/womenshoes10.jpeg"
+        }
+    ],
+    "weddingClothesData": [
+        {
+            "id": "wedding001",
+            "name": "Royal Blue Lehenga Set",
+            "price": 8999,
+            "description": "Elegant royal blue lehenga with embroidered blouse and matching dupatta, perfect for evening weddings.",
+            "images": "/weddingdata/wedding1.jpeg"
+        },
+        {
+            "id": "wedding002",
+            "name": "Yellow Floral Organza Saree",
+            "price": 7499,
+            "description": "Light yellow organza saree with bold floral prints and delicate border for daytime functions.",
+            "images": "/weddingdata/wedding2.jpeg"
+        },
+        {
+            "id": "wedding003",
+            "name": "Maroon Bridal Gown",
+            "price": 11999,
+            "description": "Luxurious maroon bridal gown with intricate golden embroidery for grand wedding occasions.",
+            "images": "/weddingdata/wedding3.jpeg"
+        },
+        {
+            "id": "wedding004",
+            "name": "Aqua Blue Printed Lehenga",
+            "price": 7999,
+            "description": "Stylish aqua blue printed lehenga with white blouse, perfect for festive celebrations.",
+            "images": "/weddingdata/wedding4.jpeg"
+        },
+        {
+            "id": "wedding005",
+            "name": "Ivory and Navy Embroidered Lehenga",
+            "price": 10999,
+            "description": "Ivory lehenga with navy dupatta featuring heavy embroidery and mirror work for bridal events.",
+            "images": "/weddingdata/wedding5.jpeg"
+        },
+        {
+            "id": "wedding006",
+            "name": "Sky Blue Sharara Suit",
+            "price": 6999,
+            "description": "Light sky blue sharara suit with sequin detailing, ideal for pre-wedding functions.",
+            "images": "/weddingdata/wedding6.jpeg"
+        },
+        {
+            "id": "wedding007",
+            "name": "Peach Embroidered Lehenga",
+            "price": 8599,
+            "description": "Graceful peach lehenga with delicate floral embroidery and matching net dupatta.",
+            "images": "/weddingdata/wedding7.jpeg"
+        },
+        {
+            "id": "wedding008",
+            "name": "Pink Floral Banarasi Lehenga",
+            "price": 9499,
+            "description": "Traditional pink floral Banarasi lehenga with golden border and silk blouse.",
+            "images": "/weddingdata/wedding8.jpeg"
+        },
+        {
+            "id": "wedding009",
+            "name": "Sea Green Embroidered Lehenga",
+            "price": 8999,
+            "description": "Refreshing sea green lehenga with zari embroidery, ideal for day weddings.",
+            "images": "/weddingdata/wedding9.jpeg"
+        },
+        {
+            "id": "wedding010",
+            "name": "Floral Ivory Net Gown",
+            "price": 9999,
+            "description": "Romantic ivory net gown with pastel floral designs, perfect for receptions.",
+            "images": "/weddingdata/wedding10.jpeg"
+        },
+        {
+            "id": "wedding011",
+            "name": "Plum and Gold Bridal Lehenga",
+            "price": 12999,
+            "description": "Royal plum lehenga with heavy golden zari and sequin work for brides.",
+            "images": "/weddingdata/wedding11.jpeg"
+        },
+        {
+            "id": "wedding012",
+            "name": "Lavender Embellished Lehenga",
+            "price": 8999,
+            "description": "Pastel lavender lehenga with crystal embellishments and matching blouse.",
+            "images": "/weddingdata/wedding12.jpeg"
+        }
+    ]
+}

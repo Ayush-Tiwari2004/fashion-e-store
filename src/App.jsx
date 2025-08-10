@@ -8,6 +8,9 @@ import ShoesDetails from "./components/productpages/ShoesData/ShoesDetails";
 import Tshirt from "./components/productpages/t-shirt/Tshirt";
 import { GetBrandsData, GetGamingToolsData, GetShirtData, GetShoesData, GetTshirtData } from "./components/productpages/ViewAllproduct/GetAllProductsData";
 import { ViewAllProduct } from "./components/productpages/ViewAllproduct/ViewAllProduct";
+import WeddingProducts from "./components/productPagesForWomen/WeddingProducts";
+import WomenShoes from "./components/productPagesForWomen/WomenShoes";
+import WomenViewAll from "./components/productPagesForWomen/WomenViewAll";
 import AppLayout from "./pages/AppLayout";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -30,6 +33,9 @@ function App() {
         {path: "man/brand/:id", element: <ShoesDetails />, loader: GetBrandsData},
         {path: "man/gaming", element: <Gaming />},
         {path: "man/gaming/:id", element: <ShoesDetails />, loader: GetGamingToolsData},
+        {path: "women/view-all-product", element: <WomenViewAll />},
+        {path: "women/shoes", element: <WomenShoes />},
+        {path: "women/wedding-clothes", element: <WeddingProducts />},
       ]
     }     
   ]);

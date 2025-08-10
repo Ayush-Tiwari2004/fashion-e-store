@@ -39,7 +39,7 @@ const Carousel = ({images}) => {
               <img
                 src={src}
                 alt={`Poster ${idx + 1}`}
-                className="w-full h-full object-cover rounded-2xl transition-all duration-500 ease-in-out"
+                className="w-full h-full mt-2 object-cover rounded-2xl transition-all duration-500 ease-in-out"
               />
             </div>
           </div>

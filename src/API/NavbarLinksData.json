@@ -27,22 +27,16 @@
     ],
     "women": [
         {
-            "navlink": "View All"
+            "navlink": "View All",
+            "links": "women/view-all-product"
         },
         {
-            "navlink": "Women Trends"
+            "navlink": "Shoes",
+            "links": "women/shoes"
         },
         {
-            "navlink": "Shoes"
-        },
-        {
-            "navlink": "Face+Body"
-        },
-        {
-            "navlink": "Wedding"
-        },
-        {
-            "navlink": "Activewear"
+            "navlink": "Wedding",
+            "links": "women/wedding-clothes"
         }
     ]
 }
