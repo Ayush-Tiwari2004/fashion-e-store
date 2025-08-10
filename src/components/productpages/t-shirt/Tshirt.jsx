@@ -2,11 +2,12 @@ import React from 'react'
 import AllProductsData from '../../../API/AllProductsData.json'
 import { TshirtCardData } from '../ViewAllproduct/AllProductCard';
 import Carousel from '../brandProducts/Carousel';
+import tshirtImg from "/src/assets/tshirtimg/ECTH16.jpeg"
 // import ProductSearch from './ProductSerch';
 
 const Tshirt = () => {
    const images = [
-    "/src/assets/tshirtimg/ECTH16.jpeg",
+    {tshirtImg},
     "/src/assets/tshirtimg/ECTH17.jpeg",
     "/src/assets/tshirtimg/ECTH18.jpeg",
     "/src/assets/tshirtimg/ECTH19.jpeg",
