@@ -6,7 +6,7 @@
     "rating": "4.5",
     "price": 3999,
     "category": "men",
-    "images": "/src/assets/images/shoes1.jpeg",
+    "images": "/images/shoes1.jpeg",
     "description": "Durable walking shoes, Hay buddy this is very comfortable or less priceless shoes you defenitaly like it to buy."
   },
   {
@@ -15,7 +15,7 @@
     "rating": "3.1",
     "price": 5499,
     "category": "unisex",
-    "images": "/src/assets/images/shoes2.jpeg",
+    "images": "/images/shoes2.jpeg",
     "description": "Comfortable running shoes, Lightweight cushioning for all-day comfort. Perfect for running or casual wear. Durable grip."
   },
   {
@@ -24,7 +24,7 @@
     "rating": "4.1",
     "price": 3999,
     "category": "women",
-    "images": "/src/assets/images/shoes3.jpeg",
+    "images": "/images/shoes3.jpeg",
     "description": "Timeless leather sneakers with cushioned support. Great for walking & street style."
   },
   {
@@ -33,7 +33,7 @@
     "rating": "2.1",
     "price": 3999,
     "category": "unisex",
-    "images": "/src/assets/images/shoes4.jpeg",
+    "images": "/images/shoes4.jpeg",
     "description": "Iconic shell-toe design. Cloudfoam comfort. Versatile for sports or fashion"
   },
   {
@@ -42,7 +42,7 @@
     "rating": "5.0",
     "price": 5999,
     "category": "unisex",
-    "images": "/src/assets/images/shoes5.jpeg",
+    "images": "/images/shoes5.jpeg",
     "description": "Comfortable running shoes, Breathable mesh upper. Responsive cushioning. Ideal for jogging & gym workouts."
   },
   {
@@ -51,7 +51,7 @@
     "rating": "2.3",
     "price": 4499,
     "category": "unisex",
-    "images": "/src/assets/images/shoes6.jpeg",
+    "images": "/images/shoes6.jpeg",
     "description": "Trendy street style shoes, Advanced shock absorption. Breathable & stable. Built for long-distance runners."
   },
   {
@@ -60,7 +60,7 @@
     "rating": "3.8",
     "price": 3999,
     "category": "unisex",
-    "images": "/src/assets/images/shoes7.jpeg",
+    "images": "/images/shoes7.jpeg",
     "description": "Comfortable running shoes, ENCAP midsole support. Suede/mesh upper. Classic comfort for daily wear."
   },
   {
@@ -69,7 +69,7 @@
     "rating": "4.6",
     "price": 5499,
     "category": "women",
-    "images": "/src/assets/images/shoes10.jpeg",
+    "images": "/images/shoes10.jpeg",
     "description": "Canvas sneakers with signature stripe. Cushioned for skate & casual wear."
   },
   {
@@ -78,7 +78,7 @@
     "rating": "3.7",
     "price": 3999,
     "category": "women",
-    "images": "/src/assets/images/shoes11.jpeg",
+    "images": "/images/shoes11.jpeg",
     "description": "Durable walking shoes"
   },
   {
@@ -87,7 +87,7 @@
     "rating": "8.5",
     "price": 5999,
     "category": "unisex",
-    "images": "/src/assets/images/shoes12.jpeg",
+    "images": "/images/shoes12.jpeg",
     "description": "High-performance sports shoes"
   },
   {
@@ -96,7 +96,7 @@
     "rating": "4.4",
     "price": 3999,
     "category": "women",
-    "images": "/src/assets/images/shoes14.jpeg",
+    "images": "/images/shoes14.jpeg",
     "description": "High-performance sports shoes"
   },
   {
@@ -105,7 +105,7 @@
     "rating": "5.5",
     "price": 3999,
     "category": "unisex",
-    "images": "/src/assets/images/shoes15.jpeg",
+    "images": "/images/shoes15.jpeg",
     "description": "Lightweight training shoes"
   },
   {
@@ -114,7 +114,7 @@
     "rating": "2.5",
     "price": 4499,
     "category": "women",
-    "images": "/src/assets/images/shoes16.jpeg",
+    "images": "/images/shoes16.jpeg",
     "description": "Classic sneakers"
   },
   {
@@ -123,7 +123,7 @@
     "rating": "3.9",
     "price": 5999,
     "category": "women",
-    "images": "/src/assets/images/shoes17.jpeg",
+    "images": "/images/shoes17.jpeg",
     "description": "Classic sneakers"
   },
   {
@@ -132,7 +132,7 @@
     "rating": "2.3",
     "price": 5499,
     "category": "unisex",
-    "images": "/src/assets/images/shoes18.jpeg",
+    "images": "/images/shoes18.jpeg",
     "description": "Lightweight training shoes"
   },
   {
@@ -141,7 +141,7 @@
     "rating": "4.3",
     "price": 5499,
     "category": "men",
-    "images": "/src/assets/images/shoes19.jpeg",
+    "images": "/images/shoes19.jpeg",
     "description": "High-performance sports shoes"
   },
   {
@@ -150,7 +150,7 @@
     "rating": "3.4",
     "price": 4999,
     "category": "unisex",
-    "images": "/src/assets/images/shoes20.jpeg",
+    "images": "/images/shoes20.jpeg",
     "description": "Comfortable running shoes"
   },
   {
@@ -301,85 +301,85 @@
 "tshirtData":[
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg1.jpg",
+    "images": "/tshirtimg/tshirtimg1.jpg",
     "price": "599",
     "description": " Stylish navy blue t-shirt with Tom & Jerry print. Perfect for cartoon lovers looking to express nostalgia with a modern twist."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg2.jpeg",
+    "images": "/tshirtimg/tshirtimg2.jpeg",
     "price": "499",
     "description": "White crew-neck tee featuring a bold anime punch graphic. Ideal for streetwear enthusiasts and anime fans alike."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg3.jpeg",
+    "images": "/tshirtimg/tshirtimg3.jpeg",
     "price": "549",
     "description": "Green oversized One Piece t-shirt with Zoro back print. Eye-catching design, perfect for anime lovers who stand out."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg4.jpeg",
+    "images": "/tshirtimg/tshirtimg4.jpeg",
     "price": "699",
     "description": "Cream tee with powerful Goku artwork from Dragon Ball Z. Designed for fans who love strong characters and classic style."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg5.jpeg",
+    "images": "/tshirtimg/tshirtimg5.jpeg",
     "price": "599",
     "description": "Black t-shirt featuring a graffiti teddy bear and “Happy” text. Great for urban fashion lovers with a fun edge."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg6.jpeg",
+    "images": "/tshirtimg/tshirtimg6.jpeg",
     "price": "499",
     "description": " Double-view black t-shirt with LABUBU character print. Adds playful energy to your casual wear collection."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/shirtimg7.jpeg",
+    "images": "/tshirtimg/shirtimg7.jpeg",
     "price": "549",
     "description": "Orange oversized Goku tee with back print and bold Kanji. A must-have for Dragon Ball fans wanting comfort and style."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg8.jpeg",
+    "images": "/tshirtimg/tshirtimg8.jpeg",
     "price": "699",
     "description": " Red One Piece t-shirt with Luffy’s fist-up design. Ideal for fans wanting to showcase their pirate pride."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg9.jpeg",
+    "images": "/tshirtimg/tshirtimg9.jpeg",
     "price": "699",
     "description": "White tee with an artistic Donald Duck street-style print. Perfect blend of classic cartoon with modern streetwear."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg11.jpeg",
+    "images": "/tshirtimg/tshirtimg11.jpeg",
     "price": "549",
     "description": "Black power-charged Goku glow design t-shirt. Designed for anime lovers who want bold and electric style."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg12.jpeg",
+    "images": "/tshirtimg/tshirtimg12.jpeg",
     "price": "749",
     "description": "Off-white t-shirt with mini Goku family print. Light, fun, and ideal for casual daily wear with anime vibes."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg13.jpeg",
+    "images": "/tshirtimg/tshirtimg13.jpeg",
     "price": "599",
     "description": "Pink t-shirt featuring the cool Pink Panther holding a drink. Brings chill and playful vibes to your outfit."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg14.jpeg",
+    "images": "/tshirtimg/tshirtimg14.jpeg",
     "price": "649",
     "description": "White tee with vertical “GOKU” text and sharp action graphic. Clean yet fierce, great for all Dragon Ball fans."    
   },
   {
     "id":"5s5d7f5df",
-    "images": "/src/assets/tshirtimg/tshirtimg10.jpeg",
+    "images": "/tshirtimg/tshirtimg10.jpeg",
     "price": "699",
     "description": "Beige Dragon Ball Z tee with seated Goku and logo. Cozy fit with a retro anime style fans will love."    
   }

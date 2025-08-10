@@ -26,11 +26,11 @@ export const ViewAllProduct = () => {
     }, [])
 
      const images = [
-    "/src/assets/images/poster1.jpeg",
-    "/src/assets/images/poster2.jpeg",
-    "/src/assets/images/poster9.jpeg",
-    "/src/assets/images/poster4.jpeg",
-    "/src/assets/images/poster5.jpeg"
+    "/images/poster1.jpeg",
+    "/images/poster2.jpeg",
+    "/images/poster9.jpeg",
+    "/images/poster4.jpeg",
+    "/images/poster5.jpeg"
   ];
     return (
         <>

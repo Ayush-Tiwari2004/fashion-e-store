@@ -2,16 +2,15 @@ import React from 'react'
 import AllProductsData from '../../../API/AllProductsData.json'
 import { TshirtCardData } from '../ViewAllproduct/AllProductCard';
 import Carousel from '../brandProducts/Carousel';
-import tshirtImg from "/src/assets/tshirtimg/ECTH16.jpeg"
 // import ProductSearch from './ProductSerch';
 
 const Tshirt = () => {
    const images = [
-    {tshirtImg},
-    "/src/assets/tshirtimg/ECTH17.jpeg",
-    "/src/assets/tshirtimg/ECTH18.jpeg",
-    "/src/assets/tshirtimg/ECTH19.jpeg",
-    "/src/assets/tshirtimg/ECTH20.jpeg"
+    "/tshirtimg/ECTH16.jpeg",
+    "/tshirtimg/ECTH17.jpeg",
+    "/tshirtimg/ECTH18.jpeg",
+    "/tshirtimg/ECTH19.jpeg",
+    "/tshirtimg/ECTH20.jpeg"
   ];
   return (
      <div className="mt-6 px-10 md:px-20">

@@ -4,11 +4,11 @@ import Carousel from '../brandProducts/Carousel'
 
 const Shoes = () => {
    const images = [
-    "/src/assets/images/ECTH21.jpeg",
-    "/src/assets/images/ECTH22.jpeg",
-    "/src/assets/images/ECTH23.jpeg",
-    "/src/assets/images/ECTH24.jpeg",
-    "/src/assets/images/ECTH25.jpeg"
+    "/images/ECTH21.jpeg",
+    "/images/ECTH22.jpeg",
+    "/images/ECTH23.jpeg",
+    "/images/ECTH24.jpeg",
+    "/images/ECTH25.jpeg"
   ];
   return (
     <>

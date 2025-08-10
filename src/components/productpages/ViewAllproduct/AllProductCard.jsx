@@ -72,7 +72,6 @@ export const TshirtCardData = ({ products }) => {
                     <div className="bg-white dark:bg-slate-700 p-2 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition duration-300">
                         <img
                             src={products.images}
-
                             alt={products.name}
                             className="h-40 object-contain mx-auto hover:scale-[1.03] transition"
                         />

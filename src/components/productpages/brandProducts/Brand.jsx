@@ -5,11 +5,11 @@ import Carousel from './Carousel';
 
 const Brand = () => {
    const images = [
-    "/src/assets/brandProducts/ECHT.jpeg",
-    "/src/assets/brandProducts/ECTH2.jpeg",
-    "/src/assets/brandProducts/ECTH3.jpeg",
-    "/src/assets/brandProducts/ECTH4.jpeg",
-    "/src/assets/brandProducts/ECTH5.jpeg"
+    "/brandProducts/ECHT.jpeg",
+    "/brandProducts/ECTH2.jpeg",
+    "/brandProducts/ECTH3.jpeg",
+    "/brandProducts/ECTH4.jpeg",
+    "/brandProducts/ECTH5.jpeg"
   ];
   return (
      <div className="mt-6 px-10 md:px-20">

@@ -5,11 +5,11 @@ import Carousel from '../brandProducts/Carousel';
 
 const Gaming = () => {
    const images = [
-    "/src/assets/gamingtools/ECTH6.jpeg",
-    "/src/assets/gamingtools/ECTH7.jpeg",
-    "/src/assets/gamingtools/ECTH8.jpeg",
-    "/src/assets/gamingtools/ECTH9.jpeg",
-    "/src/assets/gamingtools/ECTH10.jpeg"
+    "/gamingtools/ECTH6.jpeg",
+    "/gamingtools/ECTH7.jpeg",
+    "/gamingtools/ECTH8.jpeg",
+    "/gamingtools/ECTH9.jpeg",
+    "/gamingtools/ECTH10.jpeg"
   ];
   return (
      <div className="mt-6 px-10 md:px-20">
