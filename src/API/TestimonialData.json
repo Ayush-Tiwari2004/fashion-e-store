@@ -3,21 +3,21 @@
         "name": "Aarav Kapoor",
         "role": "Influencer",
         "review": "Loved TrendHive! Stylish and fast delivery.",
-        "image": "/src/assets/images/32.jpg",
+        "image": "/images/32.jpg",
         "background": "hover:rotate-2"
     },
     {
         "name": "Priya Sharma",
         "role": "Student",
         "review": "Latest fashion at amazing prices!",
-        "image": "/src/assets/images/65.jpg",
+        "image": "/images/65.jpg",
         "background": "hover:-rotate-2"
     },
     {
         "name": "Ritika Sen",
         "role": "Blogger",
         "review": "Trendy pieces and great quality!",
-        "image": "/src/assets/images/44.jpg",
+        "image": "/images/44.jpg",
         "background": "hover:rotate-2"        
     }
 ]
