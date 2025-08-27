@@ -1,14 +1,15 @@
 import React, { useEffect } from 'react';
 import { motion, useAnimation } from 'framer-motion';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 import { FiArrowLeft, FiShoppingBag } from 'react-icons/fi';
 
 const ErrorPage = () => {
   const controls = useAnimation();
+  const navigate = useNavigate();
 
   useEffect(() => {
     const sequence = async () => {
-      await controls.start({ 
+      await controls.start({
         opacity: 1,
         y: 0,
         transition: { duration: 0.5 }
@@ -20,6 +21,10 @@ const ErrorPage = () => {
     };
     sequence();
   }, [controls]);
+
+  const handleNavigateBtn = () => {
+    navigate(-1);
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 flex flex-col items-center justify-center p-6">
@@ -68,7 +73,7 @@ const ErrorPage = () => {
         >
           <FiShoppingBag className="text-4xl text-pink-500" />
         </motion.div>
-        
+
         <motion.div
           animate={{
             x: [50, -50, 50],
@@ -88,8 +93,9 @@ const ErrorPage = () => {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.6, duration: 0.5 }}
       >
-        <NavLink 
-          to="/"
+        <NavLink
+          to=""
+          onClick={handleNavigateBtn}
           className="inline-flex items-center px-6 py-3 bg-pink-600 text-white rounded-full font-medium hover:bg-pink-700 transition-colors shadow-lg"
         >
           <FiArrowLeft className="mr-2" />

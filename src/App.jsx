@@ -13,6 +13,7 @@ import WomenShoes from "./components/productPagesForWomen/WomenShoes";
 import WomenViewAll from "./components/productPagesForWomen/WomenViewAll";
 import AppLayout from "./pages/AppLayout";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Signup from "./pages/Signup";
 
 function App() {
   const router = createBrowserRouter([
@@ -36,6 +37,7 @@ function App() {
         {path: "women/view-all-product", element: <WomenViewAll />},
         {path: "women/shoes", element: <WomenShoes />},
         {path: "women/wedding-clothes", element: <WeddingProducts />},
+        {path: "women/signup", element: <Signup />},
       ]
     }     
   ]);

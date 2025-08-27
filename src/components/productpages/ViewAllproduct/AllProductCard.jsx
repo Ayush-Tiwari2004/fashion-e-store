@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaArrowRight } from 'react-icons/fa6';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { MdOutlineCurrencyRupee } from "react-icons/md";
 
 const ProductCard = ({ product }) => {
@@ -72,6 +72,7 @@ export const TshirtCardData = ({ products }) => {
                     <div className="bg-white dark:bg-slate-700 p-2 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition duration-300">
                         <img
                             src={products.images}
+                            loading='lazy'
                             alt={products.name}
                             className="h-40 object-contain mx-auto hover:scale-[1.03] transition"
                         />
@@ -84,9 +85,11 @@ export const TshirtCardData = ({ products }) => {
                                     <MdOutlineCurrencyRupee />
                                     <p className="text-gray-600">{products.price}</p>
                                 </div>
+                                <NavLink to="/women/singup">
                                 <button className="flex items-center gap-2 bg-pink-600 dark:bg-gray-800 text-white py-1 px-4 rounded-full hover:bg-pink-700 dark:hover:bg-gray-900 transition cursor-pointer">
                                     By now <span className='bg-white rounded-full text-black text-[14px] p-0.5 -rotate-45'><FaArrowRight /></span>
                                 </button>
+                                </NavLink>
                             </div>
                         </div>
                     </div>
